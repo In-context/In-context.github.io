@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 <!doctype html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
   <head>
