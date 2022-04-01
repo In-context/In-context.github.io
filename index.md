@@ -1,5 +1,6 @@
 ---
 permalink: /index.html
+layout: null
 ---
 <!doctype html>
 <html lang="en" prefix="og: http://ogp.me/ns#">
