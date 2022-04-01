@@ -77,7 +77,7 @@ layout: null
           - <div class="wrap"> = container 90% / <div class="wrap size-50"> = 45%;
         -->
         <section>
-          <span class="background" style="background-image:url('https://webslides.tv/static/images/nature.jpg')"></span>
+          <span class="background" style="background-image:url('/static/images/nature.jpg')"></span>
            <!--.wrap = container (width: 90%) -->
            <div class="wrap aligncenter">
              <h1><strong>Create beautiful stories</strong></h1>
