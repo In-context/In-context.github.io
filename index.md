@@ -325,6 +325,7 @@ layout: null
            </div>
            <!-- .end .wrap -->
          </section>
+        
          <section class="slide-bottom">
            <div class="wrap">
              <div class="content-right text-serif">
